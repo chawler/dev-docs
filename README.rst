@@ -1,7 +1,7 @@
-==============
-天使汇开发指南
-==============
+===================
+鼎复技术团队开发指南
+===================
 
-作者: 王然 kxxoling@gmail.com
+作者: 鼎复技术团队 support@dingfudata.com
 
-.. image:: https://readthedocs.org/projects/z42/badge/?version=latest
+[快速访问](http://df-docs.readthedocs.io)
